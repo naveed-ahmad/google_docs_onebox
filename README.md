@@ -25,5 +25,17 @@ git pull
 ```
 
 ## Screenshots
-![Spreadsheet](https://dl-web.dropbox.com/get/gdocs_onebox/Selection_004.png?w=AABPa1RGNEmysyqLbDmYO13ihd-1Nk6rpzFnE0SF-gm5_Q&dl=1&_subject_uid=80055464)
+Spreadsheet
+![Spreadsheet](https://raw.githubusercontent.com/naveed-ahmad/google_docs_onebox/screenshots/screenshots/Selection_004.png)
+
+Presentation
+![Presentation](https://raw.githubusercontent.com/naveed-ahmad/google_docs_onebox/screenshots/screenshots/Selection_005.png)
+
+Forms
+![Google Form](https://raw.githubusercontent.com/naveed-ahmad/google_docs_onebox/screenshots/screenshots/Selection_007.png)
+
+Document
+![Google document](https://raw.githubusercontent.com/naveed-ahmad/google_docs_onebox/screenshots/screenshots/Selection_006.png)
+
+
 ## Troublshooting 
