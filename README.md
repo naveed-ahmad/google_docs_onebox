@@ -39,3 +39,11 @@ Document
 
 
 ## Troublshooting 
+- Make sure document,spreadsheet and presentation is published. You can puslish by clicking on "File => Publish" menu
+- Copy the URL from address bar and past in discourse editor
+
+## Contributing
+Contributions are welcome. Report issue, even better send pull if you find any bug :)
+
+
+
