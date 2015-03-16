@@ -4,6 +4,10 @@ This plugin allows to embed any published document, spreadsheet, forms, and/or P
 
 ## Installation
 
+this plugin has been merged in offical (Onebox)[https://github.com/discourse/onebox] gem. So no need to install this if you are using the latest version. 
+
+For standlone instalation follow these steps.
+
 As seen in a [how-to on meta.discourse.org](https://meta.discourse.org/t/advanced-troubleshooting-with-docker/15927#Example:%20Install%20a%20plugin), simply **add the plugin's repo url to your container's app.yml file**:
 
 ```yml
