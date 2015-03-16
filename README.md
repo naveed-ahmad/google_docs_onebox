@@ -4,7 +4,7 @@ This plugin allows to embed any published document, spreadsheet, forms, and/or P
 
 ## Installation
 
-this plugin has been merged in offical (Onebox)[https://github.com/discourse/onebox] gem. So no need to install this if you are using the latest version. 
+this plugin has been merged in offical [Onebox](https://github.com/discourse/onebox) gem. So no need to install this if you are using the latest version. 
 
 For standlone instalation follow these steps.
 
